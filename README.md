@@ -14,4 +14,4 @@ Prepend **elevate** or **quiet** to your initial command to elevate it or run it
 ### Bugs
 Please create an issue if you encounter any bugs.
 
-© Endermanch, 2022
+© Endermanch, 2024
