@@ -1,5 +1,5 @@
 # Elevate
-Elevate scripts and commands easily and silently.
+Elevate your scripts and commands silently easily.
 
 ### Usage
 Prepend **elevate** or **quiet** to your initial command to elevate it or run it quietly.
